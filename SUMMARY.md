@@ -7,3 +7,4 @@
 * [数据库优雅关闭](db-safe-close.md)
 * [日志切分](logrotate.md)
 * [磁盘空间只有10G](only-10g-disk.md)
+* [entrypoint和CMD](entrypoint-cmd.md)
